@@ -1,20 +1,29 @@
-# 📈 Option Pricing Models
+# 📊 Option Pricing Lab
 
-A collection of pricing techniques for financial options:
+**A professional-grade Streamlit dashboard** to explore and compare popular options pricing models — ideal for showcasing financial modeling and quant skills.
 
-## Contents
-- `black_scholes.py`: Black-Scholes model & Greeks
-- `binomial_tree.py`: Binomial Tree pricing (European & American)
-- `monte_carlo.py`: Monte Carlo pricing for European & Asian options with CI
-- `barrier_option.py`: Monte Carlo Barrier Option simulation
-- `utils.py`: Helper utilities
-- `streamlit_app.py`: (Optional) Web app interface for interaction
+---
 
-## Libraries
-- `NumPy`
-- `SciPy`
-- `matplotlib`
+### 🚀 Features
 
---- 
+- **Models**: Black-Scholes, Binomial Tree, Monte Carlo, Asian, and Barrier options.
+- **Interactive Dashboard**: Tabbed layout, simulation controls, dynamic plots.
+- **Educational Layer**: Hover tooltips, Greeks explainer, and glossary tab.
+- **Visualizations**: Monte Carlo paths with barrier highlighting and confidence intervals.
 
-For quant learning, projects, or extensions like exotic options and real-time dashboards.
+---
+
+### 💼 Recruiter-Focused Highlights
+
+- Demonstrates applied quantitative finance skills.
+- Combines theory, simulation, and UI in one package.
+- Written in modular, production-friendly Python.
+- Built to communicate complexity clearly — ideal for quant, data, and fintech roles.
+
+---
+
+### ▶️ Run It
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app_tabs.py
