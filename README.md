@@ -10,16 +10,6 @@
 - **Interactive Dashboard**: Tabbed layout, simulation controls, dynamic plots.
 - **Educational Layer**: Hover tooltips, Greeks explainer, and glossary tab.
 - **Visualizations**: Monte Carlo paths with barrier highlighting and confidence intervals.
-
----
-
-### 💼 Recruiter-Focused Highlights
-
-- Demonstrates applied quantitative finance skills.
-- Combines theory, simulation, and UI in one package.
-- Written in modular, production-friendly Python.
-- Built to communicate complexity clearly — ideal for quant, data, and fintech roles.
-
 ---
 
 ### ▶️ Run It
